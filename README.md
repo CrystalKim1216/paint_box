@@ -1,0 +1,2 @@
+# paint_box
+scss
