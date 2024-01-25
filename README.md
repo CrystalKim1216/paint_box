@@ -1,7 +1,3 @@
-# paint_box
-
-scss
-
----
+Study For Scss
 
 https://paint-box.com/
